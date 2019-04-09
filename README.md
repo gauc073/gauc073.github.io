@@ -63,3 +63,5 @@ Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 DeepSpeech mozila github project
 https://github.com/mozilla/DeepSpeech
+
+NLP https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
