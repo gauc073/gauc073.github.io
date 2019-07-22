@@ -65,3 +65,4 @@ DeepSpeech mozila github project
 https://github.com/mozilla/DeepSpeech
 
 NLP https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776
+microsoft sway https://sway.office.com/jw0LhNRfQb4skRBC?ref=Link
